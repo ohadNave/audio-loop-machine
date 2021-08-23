@@ -1,3 +1,7 @@
+
+The project deployed with Heroku on www.moveo-demo-app.herokuapp.com
+
+
 ## Project setup
 ```
 npm install
@@ -17,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### The project deployed with Heroku on moveo-demo-app.herokuapp.com
-
